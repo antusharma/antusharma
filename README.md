@@ -1,67 +1,84 @@
-<div align="center">
-  <h1>Hi there, I'm Antu Sharma 👋</h1>
-  <h3>🎓 CSE Undergrad | 💻 Aspiring Software Engineer & 🔐 Cybersecurity Researcher</h3>
-  <p><i>"Code with precision, think like an attacker, defend like an engineer."</i></p>
-</div>
+# Antu Sharma
+**1st-Year Computer Science & Engineering (CSE) Undergraduate | Aspiring Software Engineer & Cybersecurity Researcher**
 
-<div align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
-  <a href="mailto:antusharmaaroup@gmail.com"><img src="https://shields.io" alt="Gmail"/></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"/></a>
-</div>
+📍 Chattogram, Bangladesh &nbsp;|&nbsp; 🌍 Global Tech Aspirant (USA / Italy / Remote)  
+🔗 [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; 📧 [antusharmaaroup@gmail.com](mailto:antusharmaaroup@gmail.com) &nbsp;|&nbsp; 💻 [GitHub](https://github.com)
 
 ---
 
-### 🖥️ Terminal Dashboard (`./antu_profile.sh`)
+### 👨‍💻 Executive Summary
+
+I am a dedicated **1st-semester Computer Science and Engineering (CSE)** student with a strong vision to build a career at the intersection of **Software Engineering** and **Cybersecurity**. My current academic and personal focus is on mastering core programming logic, algorithmic problem-solving, and understanding low-level computer architecture from the ground up.
+
+* **Current Engineering Focus:** Structured Programming (`C`), Algorithmic Thinking, Computer Fundamentals, and Web Basics.
+* **Long-Term Vision:** Designing scalable, high-performance software systems with a security-first mindset for global tech organizations.
+
+---
+
+### 🖥️ Developer Profile (`./antu_info.json`)
 
 ```json
 {
   "name": "Antu Sharma",
-  "education": "B.Sc. in Computer Science & Engineering (CSE)",
-  "location": "Chattogram, Bangladesh 🇧🇩",
-  "career_goals": [
-    "Software Engineer 💻",
-    "Cybersecurity Analyst 🔐",
-    "Global Tech Roles (USA / Italy) 🌍"
+  "academic_status": "1st Semester, B.Sc. in CSE",
+  "location": "Chattogram, Bangladesh",
+  "primary_interests": [
+    "Software Engineering",
+    "Cybersecurity & Network Defense",
+    "Competitive Programming"
   ],
-  "current_focus": [
-    "Data Structures & Algorithms",
-    "Full-Stack Software Development",
-    "Network Security & Linux Administration"
+  "currently_learning": [
+    "C Programming",
+    "Problem Solving & Logic Building",
+    "HTML5 & CSS3",
+    "Git & GitHub Workflow"
+  ],
+  "next_milestones": [
+    "C++ (OOP) & Python",
+    "Data Structures & Algorithms (DSA)",
+    "Linux Administration & Networking"
   ]
 }
 ```
 
 ---
 
-### ⚙️ Tech Stack & Security Arsenal
+### 🛠️ Technical Arsenal & Learning Roadmap
 
-**💻 Programming & Development:**
-<p>
-  <img src="https://shields.io" alt="C"/>
-  <img src="https://shields.io" alt="C++"/>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+#### 1. Currently Practicing (Active Foundation)
+* **Programming Languages:** `C` (Structured Programming, Pointers, Arrays, Functions)
+* **Web Fundamentals:** `HTML5`, `CSS3`
+* **Developer Tools:** `Git`, `GitHub`, `VS Code`, `Code::Blocks`
+* **Problem Solving:** Practicing logic-building exercises on Beecrowd & Codeforces
 
-**🔐 Cybersecurity & Operating Systems:**
-<p>
-  <img src="https://shields.io" alt="Kali Linux"/>
-  <img src="https://shields.io" alt="Ubuntu"/>
-  <img src="https://shields.io" alt="Bash"/>
-  <img src="https://shields.io" alt="Wireshark"/>
-  <img src="https://shields.io" alt="Burp Suite"/>
-</p>
+#### 2. Upcoming Learning Pipeline (Semester 2 & Beyond)
+* **Software Development:** `C++` (Object-Oriented Programming), `Python`, `JavaScript`, `Data Structures & Algorithms (DSA)`
+* **Cybersecurity & OS:** `Linux CLI (Ubuntu / Kali)`, `Computer Networking Fundamentals`, `Bash Scripting`, `Web Security Basics`
 
 ---
 
-### 📌 Featured Domains & Roadmap
+### 📂 Active Repositories & Study Logs
 
-| Domain | Core Skills & Practice | Status |
-| :--- | :--- | :--- |
-| **Software Engineering** | C, C++, Python, OOP, Web Development | 🟢 Active |
-| **Problem Solving (DSA)** | Algorithmic Thinking, Competitive Coding | 🟢 Active |
-| **Cybersecurity** | Linux Fundamentals, Networking, Ethical Hacking | 🟡 Learning |
+| Repository | Category | Technologies | Purpose & Contents |
+| :--- | :--- | :--- | :--- |
+| **[C-Programming-Practice](https://github.com)** | Core Programming | `C` | University lab assignments, structured programming exercises, and beginner problem-solving solutions. |
+| **[CSE-Study-Notes](https://github.com)** | Academic & CS Core | `Markdown` | Organized study notes on Computer Fundamentals, Discrete Mathematics, and programming logic. |
+| **[Cybersecurity-Learning-Log](https://github.com)** | Security Basics | `Linux`, `Networking` | Beginner notes on how networks operate, basic Linux commands, and foundational security concepts. |
+
+---
+
+### 🎯 1st-Year Engineering Milestones (2026–2027)
+
+* **Strong Algorithmic Base:** Solve 150+ foundational programming problems in C to build sharp analytical thinking.
+* **Console-Based Software Projects:** Build complete mini-projects in C (such as a Student Record System or Banking Management System) using file handling.
+* **Version Control Mastery:** Maintain consistent daily/weekly commits on GitHub to document my coding journey.
+* **OS & Network Literacy:** Transition to a Linux environment and understand core networking protocols (TCP/IP, DNS, HTTP).
+
+---
+
+### 🤝 Connect & Collaborate
+
+I am always open to guidance from senior engineers, security researchers, mentors, and fellow CSE students.
+
+* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* 📩 **Email:** `antusharmaaroup@gmail.com`
